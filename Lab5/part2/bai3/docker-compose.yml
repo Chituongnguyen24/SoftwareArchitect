@@ -16,4 +16,4 @@ services:
     environment:
       PMA_HOST: mysql
     depends_on:
-      - mysql
+      - mysql 
